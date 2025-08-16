@@ -6,7 +6,7 @@ Este projeto é parte do desafio **Desenvolvendo sua Primeira API com FastAPI, P
 
 Nessa versão foram implementadas as seguintes tarefas:
 
-- Adição de *query parameters* nos *endpoints `atletas`;
+- Adição de *query parameters* nos *endpoints* `atletas`;
 - Personalização de respostas do retorno de *endpoints*;
 - Manipulação de integridade de dados em cada módulo/tabela;
 - Adição de paginação utilizando a biblioteca `fastapi-pagination`.
